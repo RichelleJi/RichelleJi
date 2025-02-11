@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RichelleJi
-- 👀 I’m buildling [PokerPalAI](https://pokerpalai.com/)
+- 👀 I’m buildling [Nova AI Solver](https://chat.novasolver.com/)
 - 🌱 I’m currently learning Solidity, Rust...
 - 💞️ I am interested in web3, defi...
 
